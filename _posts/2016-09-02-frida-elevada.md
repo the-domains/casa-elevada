@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-09-02T21:15:04.954Z'
+datePublished: '2016-09-02T21:25:50.126Z'
+sourcePath: _posts/2016-09-02-frida-elevada.md
 author: []
 via: {}
-dateModified: '2016-09-02T21:14:25.054Z'
+dateModified: '2016-09-02T21:25:49.492Z'
 title: Frida Elevada
 publisher: {}
-description: ''
+description: This is Frida Kahlo. Nice feminine shirt.
 starred: false
-sourcePath: _posts/2016-09-02-frida-elevada.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -16,4 +16,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+# Frida Elevada
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23a0cb09-7b12-4df1-b167-5a761fed3d46.jpg)
+
+This is Frida Kahlo. Nice feminine shirt.
