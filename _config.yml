@@ -28,6 +28,9 @@ navigation:
   - name: Materia Negra
     id: 633b0cfc-bfed-4c54-9c31-717dd567aef3
     type: content
+  - name: Materia Blanca
+    id: e6d904c1-2613-4e86-a077-625c1d7c208a
+    type: content
 favicon: null
 title: Surf / Shred / Create / Elevate
 description: Surf / Shred / Create / Elevate
