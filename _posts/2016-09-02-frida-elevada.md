@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-09-02T21:29:28.939Z'
+datePublished: '2016-09-02T21:39:54.197Z'
 sourcePath: _posts/2016-09-02-frida-elevada.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T21:29:28.392Z'
+dateModified: '2016-09-02T21:39:53.516Z'
 title: Frida Elevada
 publisher: {}
 description: This is Frida Kahlo. Nice feminine shirt.
 starred: false
-inFeed: true
-hasPage: true
-inNav: false
 url: frida-elevada/index.html
 _context: 'http://schema.org'
 _type: Article
