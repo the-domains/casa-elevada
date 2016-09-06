@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Materia Negra
+    id: 633b0cfc-bfed-4c54-9c31-717dd567aef3
+    type: content
 favicon: null
 title: Casa Elevada
 description: Surf / Shred / Create / Elevate
