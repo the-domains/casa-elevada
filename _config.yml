@@ -19,6 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: null
 name: Casa Elevada
 cta:
   domain: null
@@ -31,7 +32,8 @@ navigation:
   - name: Materia Blanca
     id: e6d904c1-2613-4e86-a077-625c1d7c208a
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fc65019-5721-40ab-a37f-77cefdf6e41d.png
 title: Surf / Shred / Create / Elevate
 description: Surf / Shred / Create / Elevate
 purpose: []
